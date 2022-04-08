@@ -3,19 +3,16 @@ JavaTestAutomationFramework
 	The goal of this project is to show how to automate web, api and mobile testing using java + cucumber + appium + restassured + selenium webdriver + TestNG.
     
 Mobile Test Demo:
-<h1 align="center">
-    <img alt="README" title="README" src="C:\projects\javaAutomationFramework\src\main\resources\gifs\mobile.gif" />
-</h1>
+
+![mobile](https://user-images.githubusercontent.com/80653128/162509401-cac099f3-2066-4c4a-9667-5a04f49777c8.gif)
 
 WEB Test Demo:
-<h1 align="center">
-    <img alt="README" title="README" src="C:\projects\javaAutomationFramework\src\main\resources\gifs\web.gif" />
-</h1>
+
+![web](https://user-images.githubusercontent.com/80653128/162509669-d4a4090b-2784-49d1-a106-03d294ea82e0.gif)
 
 API Test Demo:
-<h1 align="center">
-    <img alt="README" title="README" src="C:\projects\javaAutomationFramework\src\main\resources\gifs\api.gif" />
-</h1>
+
+![api](https://user-images.githubusercontent.com/80653128/162509714-26b5fc8a-b1bc-435e-b8fe-e903b1c7bf39.gif)
 
 Getting Started!
 
