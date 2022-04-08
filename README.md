@@ -30,6 +30,6 @@ Installing
 
 How to run the tests
 
-	To run mobile test go to "RunCucumberTest" and add "@appium" in tags. Before that you have to set up the android simulator in Android Studio then click on run from intellij
-	To run web test tests "RunCucumberTest" and add "@web" in tags after that click on run
-	To run api test tests "RunCucumberTest" and add "@api" in tags after that click on run
+	To run mobile test go to "RunCucumberTest" and add "@appium" in tags. Before that you have to set up the android simulator in Android Studio and Appium then click on run from intellij
+	To run web test tests "RunCucumberTest" and add "@web" in tags after that click on run from intellij
+	To run api test tests "RunCucumberTest" and add "@api" in tags after that click on run from intellij
